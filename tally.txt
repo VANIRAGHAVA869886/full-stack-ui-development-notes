@@ -1,0 +1,82 @@
+1. Commenced business with cash		Rs. 20,000/-
+2. Goods Purchase By Cash			Rs. 6,000/-
+3. Sales to Nagendra				Rs. 3,000/-
+4. Purchase Furntiure				Rs. 4,000/-
+5. Advertisement Expenses			Rs. 200/-
+6. Credit Sales to Ramu			Rs. 1,000/-
+7. Cash Sales				Rs. 4,000/-
+8. Cash Received from Ramu			Rs. 600/-
+9. Rent Paid				Rs. 2,000/-
+10. Wages Paid				Rs. 300/-
+11. Cash Deposited into Bank			Rs. 6,000/-
+12. Purchased goods from Rao's Computers		Rs. 4,000/-
+13. Paid for Stationery			Rs. 3,000/-
+14. Sold Goods for Cash			Rs. 2,500/-
+15. Draw from Bank				Rs. 9,000/-
+16. Paid to Rao's Computers by Cheque		Rs. 3,500/-
+17. Receive from Nagendra			Rs. 3,000/-
+18. Paid Electric Charges			Rs. 450/-
+19. Purchased Systems			Rs. 10,000/-
+20. Bought Good from Kiran			Rs. 1,500/-
+
+Problem No :2
+1. Commenced Business with Cash		Rs. 50,000/-
+2. Puchased Furniture by Cheque		Rs. 5,000/-
+3. Paid for Advertisement			Rs. 1,000/-
+4. Bought Goods for Cash			Rs. 10,000/-
+5. Bought Good for Ravi			Rs. 10,000/-
+6. Sold Goods for Cash			Rs. 15,000/-
+7. Sold Goods for Nagendra			Rs. 15,000/-
+8. Paid Electric Charges			Rs. 500/-
+9. Paid Rent in Advanced 			Rs. 10,000/-
+10. Paid Salaries				Rs. 10,000/-
+11. Paid to Ravi				Rs. 5,000/-
+12. Received from Nagendra			Rs. 7,000/-
+13. We returned Ravi's Goods			Rs. 2,000/-
+14. Nagendra Returned us Goods			Rs. 3,000/-
+15. Paid to Rajesh an Advance			Rs. 10,000/-
+16. Purchase from RK			Rs. 5,000/-
+17. Sold Goods to SV Enterprises			Rs. 3,000/-
+18. Paid into Bank				Rs. 20,000/-
+19. With Draw Cash personal use from Bank	Rs. 500/-
+20. With Draw Cash for Office Use		Rs. 1,000/-
+21. Paid to RK				Rs. 5,000/-
+22. Received from S.V.Enterprises		Rs.3,000/-
+23. Purchase good from Rajesh			Rs.10,000/-
+
+Cheque Printing :-
+To Activate Cheque Printing
+	1. Create Ledgers Eg. SBI, ICICI, Andhr Bank, Axis Bank Etc...
+	2. Press F11=> Enable Cheque Printing - Yes
+	3. Set / Alter Cheque Printing Configuration - Yes
+	4. Give Company Name if yours cheque is related to company
+	5. Give Name of bank and press enter
+	6. Now give all dimensions in mm only
+	7. Enter payment voucher with bank paid rent Rs.500/- through SBI
+	8. Then that shows preview of cheque printing if your want print press yes.
+Cheque Printing Configuration :-
+Width of Cheque					:	204
+Height of Cheque					:	92
+Distance of date line from top edge			:	9
+Starting location of date from left edge			:	160
+Distance of party's name line from top edge			:	20
+Starting location of name from left edge			:	14
+Width of name area					:	170
+Distance of 2nd Amt in words line from top edge		:	40.50
+Height (gap) of Amt in words from left edge			:	6
+Starting location of Amt in words from left edge		:	33
+Width of Amt in words area				:	100
+Distance of Amt in figures line from top edge		:	36
+Starting location of amt in figures from left edge		:	153
+Width of Amt in figures area				:	39
+Distance of Company signature bottomline from top Edge	:	65
+Starting location of Amt in Figures from left edge		:	140
+Width of signature Area				:	50
+Height of Signature Area				:	19
+Salutation of 1st Signature (if 2 Signature)			:	
+Salutation of 2nd or Single Signature			:	Proprietor
+
+
+		
+
+ 			
